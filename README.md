@@ -1,1 +1,1 @@
-# homework-repo
+# My GitHub homework-repo
